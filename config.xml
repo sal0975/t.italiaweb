@@ -2,7 +2,7 @@
 <widget id="it.titaliaweb.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     
     <name>T.italiaWeb</name>
-    <description>Banco di prova</description>
+    <description>Realizzazione Siti Web, Grafica e Promozione</description>
     <author email="a.salin@titaliaweb.it" href="http://www.titaliaweb.it/">Webmaster</author>
 
     <preference name="phonegap-version" value="3.3.0" />
