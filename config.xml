@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="it.titaliaweb.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="it.titaliaweb.app" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     
     <name>T.italiaWeb</name>
     <description>Realizzazione Siti Web, Grafica e Promozione</description>
     <author email="a.salin@titaliaweb.it" href="http://www.titaliaweb.it/">Webmaster</author>
 
-    <preference name="phonegap-version" value="3.3.0" />
+    <preference name="phonegap-version" value="3.7.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
     
     <preference name="orientation"                value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
